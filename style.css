@@ -1,6 +1,3 @@
-Certainly! I've made the necessary adjustments to your CSS to prevent the page from moving left to right on mobile devices. Here's the updated version with the fixes applied:
-
-```css
 /* Global Styles */
 body {
     font-family: 'Heebo', sans-serif; /* Heebo for body text */
@@ -209,5 +206,3 @@ h1 {
     }
 }
 
-
-I’ve added the necessary `overflow-x: hidden` to the `body` and ensured responsive behavior across elements. Let me know if this resolves your issue!
